@@ -1,0 +1,2 @@
+# Computer-Vision-for-Edge-Detection-and-Shape-Classification-in-Object-Recognition
+This Python script detects and classifies shapes in images. It resizes the image, applies Canny edge detection, and finds contours. Shapes are classified as Triangle, Square, Rectangle, Irregular, or Circle based on contour properties. The script annotates shapes with IDs, areas, and highlights the largest and smallest shapes. Uses OpenCV and NumPy
